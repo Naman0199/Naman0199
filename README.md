@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and C Programming 
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me- 
-     Email me - danialsharma5@gmail.com 
+       danialsharma5@gmail.com 
 
 <!---
 Naman0199/Naman0199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
